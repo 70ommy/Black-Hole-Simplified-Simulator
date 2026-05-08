@@ -1,0 +1,12 @@
+[project]
+name = "bob'sblackhole"
+version = "0.1.0"
+description = "3D particle-based simulator for stars and black holes with retro 90s aesthetic"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pygame>=2.5.0",
+    "numpy>=1.24.0",
+    "PyOpenGL>=3.1.7",
+    "PyOpenGL-accelerate>=3.1.7",
+]
